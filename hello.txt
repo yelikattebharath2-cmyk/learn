@@ -7,4 +7,8 @@ this is not old
 sorry new
 yes i  have added few in testing yes i didi
  i want to do some changes
+<<<<<<< HEAD
 i dont know whats haooening
+=======
+i will still do changes
+>>>>>>> b97b347b38a45ac22dedcb1eb261a721122403ef
