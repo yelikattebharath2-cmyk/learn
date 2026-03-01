@@ -11,4 +11,8 @@ yes i  have added few in testing yes i didi
 i dont know whats haooening
 =======
 i will still do changes
+<<<<<<< HEAD
 >>>>>>> b97b347b38a45ac22dedcb1eb261a721122403ef
+=======
+changes on line 11
+>>>>>>> origin/master
